@@ -2,7 +2,17 @@
 
 ### A programming student by day
 
-🌱 I’m currently learning:
+## 👔 Career plan:
+
+Currently, my studies focus on infrastructure and web/mobile development.
+
+## 👨‍🎓 Academic achievements:
+
+Olimpíada Brasileira de Informática (OBI): 2 silver medals
+
+Olímpiada Brasileira de Matemática das Escolas Públicas: 2 gold medals, 3 silver medals, 2 bronze medals.
+
+## 🌱 I’m currently learning:
 
 ![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
